@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "336023741778",
+    "project_id": "bctians-fe4f8",
+    "storage_bucket": "bctians-fe4f8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:336023741778:android:ef2110b2d03d172c3f868b",
+        "android_client_info": {
+          "package_name": "com.example.bctians"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "336023741778-5bbll2manah8n3s3jvs5k25fji1pb1ci.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCR11s0JtBahToYgG-yHtRD8jWxMPGtAbs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "336023741778-5bbll2manah8n3s3jvs5k25fji1pb1ci.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
